@@ -1,0 +1,26 @@
+* {
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+
+.content{
+	margin-left: 50px;
+}
+.center{
+	text-align: center;
+}
+.date{
+	text-align: right;
+}
+.header-row{
+	 display: flex;
+     justify-content: space-between;
+     align-items: baseline;
+     margin-bottom: 0;
+}
+.header-row p{
+	margin: 0;
+}
+.location-date{
+	text-align: right;
+}
