@@ -1,9 +1,4 @@
-* {
-	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-}
-
-
-.content{
+ul{
 	margin-left: 50px;
 }
 .center{
@@ -16,11 +11,19 @@
 	 display: flex;
      justify-content: space-between;
      align-items: baseline;
-     margin-bottom: 0;
+     margin-bottom: 0px;
 }
 .header-row p{
 	margin: 0;
 }
 .location-date{
 	text-align: right;
+}
+.degree-info{
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-bottom: 10px
+}
+.coursework{
+    margin-left: 50px;
 }
